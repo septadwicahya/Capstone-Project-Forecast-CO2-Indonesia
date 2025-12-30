@@ -1,2 +1,1 @@
-Projek ini berupa visualisasi data terkait Prediksi CO2 di Indonesia, Visualisasi di deploy pada streamlit yang dapat diakses pada link berikut https://capstone-project-forecast-co2-indonesia-septadwicahya.streamlit.app/ 
-![Uploading image.png…]()
+Projek ini berupa visualisasi data terkait Prediksi CO2 di Indonesia, Visualisasi di deploy pada streamlit yang dapat diakses pada link berikut [Link Streamlit Forecasting CO2](https://capstone-project-forecast-co2-indonesia-septadwicahya.streamlit.app/)
